@@ -22,13 +22,7 @@
 
 # ポートフォリオ
 
-2019年に作成したTwitterクローン。Django＋Heroku
-- http://microblog4.herokuapp.com/
-ソースコード
-- https://github.com/KKazutaka/microblog4
-
-
-＊ログイン情報
-username:udemy
-password:udemyudemy
-
+- 2019年に作成したTwitterクローン。Django＋Heroku
+  - http://microblog4.herokuapp.com/
+- ソースコード
+  - https://github.com/KKazutaka/microblog4
