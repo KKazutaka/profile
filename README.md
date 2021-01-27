@@ -4,12 +4,8 @@
 2011 中央大学　経済学部卒業
 
 ## 職歴
-- 2011年4月 〜　19年11月　専門商社勤務
-  - 11年4月〜13年5月　大阪本社　貿易、見積もり実務
-  - 13年6月〜16年12月　東南アジアのタイに駐在。法人営業、およびタイ人営業スタッフのマネージング。
-  - 17年1月〜19年11月　大阪本社　関西地区の法人営業
-  
-- 2020年2月 〜 2020年6月　AI系ベンチャー企業にてプロジェクトマネジャーとして参画。６案件ほどに携わる。
+- 2011年4月 〜 19年11月　専門商社勤務。国内外での営業経験、タイ人営業チームのマネージング経験あり。
+- 2020年2月 〜 20年7月　AI系ベンチャー企業にてプロジェクトマネジャーとして参画。６案件ほどに携わる。
 - 2020年7月 〜 現在　個人でWEB制作、および開発業務に携わる
 
 # 資格
@@ -23,4 +19,16 @@
 - プログラミング言語：　　Python, JavaScript (ES6), TypeScript, PHP, HTML,CSS 
 - フレームワーク・CMS：　Django, React, electron , WordPress
 - ツール：　 git, docker, AWS, GCP, slack, redmine, growi, node.js
+
+# ポートフォリオ
+
+2019年に作成したTwitterクローン。Django＋Heroku
+- http://microblog4.herokuapp.com/
+ソースコード
+- https://github.com/KKazutaka/microblog4
+
+
+＊ログイン情報
+username:udemy
+password:udemyudemy
 
