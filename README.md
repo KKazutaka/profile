@@ -17,7 +17,7 @@
 
 # スキル
 - プログラミング言語：　　Python, JavaScript (ES6), TypeScript, PHP, HTML,CSS 
-- フレームワーク・CMS：　Django, React, electron ,Laravel  WordPress
+- フレームワーク・CMS：　Django, React, electron ,Laravel ,WordPress
 - ツール：　 git, docker, AWS, GCP, slack, redmine, growi, node.js
 
 # アピールポイント
