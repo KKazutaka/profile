@@ -16,9 +16,9 @@
 ・ディープラーニングG検定
 
 # スキル
-- プログラミング言語：　　Python, JavaScript (ES6), TypeScript, PHP, HTML,CSS 
+- プログラミング言語：　　Python, JavaScript (ES6), TypeScript, PHP, HTML, CSS, VB.net
 - フレームワーク・CMS：　Django, React, electron ,Laravel(ver.6, ver.8) ,WordPress
-- ツール：　 git, docker, AWS, GCP, slack, redmine, growi, node.js
+- ツール：　 git, docker, AWS, GCP, slack, redmine, growi, node.js, SQLite, SQLserver, visual studio
 
 # アピールポイント
 ### 海外での法人営業、およびマネジメント経験（３年半）
@@ -48,8 +48,10 @@
 ### チャットボット開発(2021.3〜5)
  LINEのチャットボットの開発に携わりました。バックエンドにはLaravel(ver.6)を使用。
 
-### 物流システムパッケージの開発(2021.6-)
- 既存システムの拡張開発。WindowsでVB.NETを使用予定。
+### 物流システムパッケージの開発(2021.6-10)
+ 業務アプリケーションのシステム拡張開発。
+ OSはWindows。VB.NET、SQLserverを使用
+ 
 
 ### 今後興味のあるスキル
 - DevOps系：クラウドサービスを用いた開発。AWSやGCP、docker、 CI/CDなどのスキル。開発効率をあげれるようにしたいため。
